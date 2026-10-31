@@ -1,0 +1,43 @@
+Embedded AI Lab Educational Use License (EALEL) v1.0
+
+Copyright © 2026 Partha Singha Roy (Embedded AI Lab). All rights reserved.
+
+1. Permission for Educational Use
+
+Subject to the terms below, permission is granted to download, view, execute, study, and modify the original source code covered by this license for personal learning, academic study, research, experimentation, and non-commercial educational projects.
+
+Users may make reasonable copies of the source code for these permitted purposes, provided that this license and the original copyright notice are retained.
+
+2. Commercial Use Requires Separate Permission
+
+Commercial use of the licensed source code is not permitted without prior written authorization from the copyright owner.
+
+Commercial use includes incorporating the code into a commercial product, deploying it as part of a paid service, distributing it as part of a commercial offering, or using it to provide paid development or engineering services.
+
+Businesses and individuals seeking commercial rights must contact Embedded AI Lab to discuss a separate commercial license.
+
+3. Redistribution
+
+Redistribution of the source code or modified versions is permitted only for the educational and non-commercial purposes described in this license, provided that the original copyright notice, this license, and appropriate attribution are retained.
+
+Redistribution for commercial purposes requires separate written permission.
+
+4. Attribution
+
+When publishing educational work derived from this code, users must credit Embedded AI Lab and, where reasonably practical, link to the original repository.
+
+5. Third-Party Materials
+
+This license applies only to original material that the copyright owner is entitled to license. Third-party software, libraries, datasets, models, and other materials remain subject to their respective licenses and terms.
+
+6. No Warranty
+
+The source code is provided "AS IS", without warranties of any kind, to the extent permitted by applicable law. The copyright owner is not liable for claims or damages arising from its use, subject to applicable law.
+
+7. Reservation of Rights
+
+All rights not expressly granted under this license are reserved by the copyright owner.
+
+For commercial licensing inquiries, contact: [your business email]
+
+Project-specific license terms or written agreements may supplement or supersede this license where expressly agreed.

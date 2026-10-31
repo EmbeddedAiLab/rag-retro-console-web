@@ -1,0 +1,4 @@
+Free folder for anything: notes, manuals converted to text, code, config files.
+Supported: .md .txt .rst .c .h .cc .cpp .hpp .dts .dtsi .py .sh .cfg .conf .ini .yaml .yml .log
+PDFs: convert first on a PC with   pdftotext -layout file.pdf file.txt   and copy the .txt here.
+Then type /ingest in the console. Files starting with "_" or "." are ignored.

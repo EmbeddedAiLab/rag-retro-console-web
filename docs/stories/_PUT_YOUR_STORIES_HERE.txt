@@ -1,0 +1,3 @@
+Put your own story files in this folder (.txt or .md), then type /ingest in the console.
+Files whose names start with "_" or "." are ignored, like this one.
+Tip: use "# Title" and "## Chapter" headings in .md files so answers can cite the chapter.
